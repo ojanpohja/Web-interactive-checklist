@@ -1,0 +1,57 @@
+button{
+  min-height: 64pt;
+  min-width: 240pt;
+  font-size: 16pt;
+  background-color: #37424A;
+  color: white;
+  padding: 10pt;
+  border-radius: 8pt;
+  font-weight: bold;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body{
+  font-family: arial;
+  font-size: 16pt;
+  background-color: #E2E3E5;
+}
+.bold{
+  font-weight: bold;
+}
+#machinedata{
+  margin: 10pt;
+
+}
+#loadslot{
+  margin: 10pt;
+}
+#tasktable{
+  margin: 10pt;
+}
+#tasktable p{
+  margin: 10pt;
+  font-size: 16pt;
+  font-weight: bold;
+}
+#tasktable p span{
+  margin: 10pt;
+  font-size: 18pt;
+  font-weight: normal;
+}
+#issuelist{
+  border-top: solid black 1px;
+}
+.center{
+  padding-top: 10pt;
+  font-size: 16pt;
+  font-weight: bold;
+  text-align: center;
+}
+#log{
+  border-top: solid black 1px;
+}
+
+#37424A;
+#E2E3E5;
+#E30613;
