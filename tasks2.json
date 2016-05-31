@@ -1,0 +1,22 @@
+{"machinetype": "AutoStrad",
+ "serialno": "xxxxxx",
+	"tasks": [{
+		"Idno": 1,
+		"Number": "1.1",
+		"Task": "Visual inspection",
+		"Comment": "",
+		"Complete": "<button> mark</button>"
+	}, {
+		"Idno": 2,
+		"Number": "1.2",
+		"Task": "Change oil",
+		"Comment": "",
+		"Complete": "Mark"
+	}, {
+		"Idno": 3,
+		"Number": "1.3",
+		"Task": "Check tire pressure",
+		"Comment": "",
+		"Complete": "Mark"
+	}]
+}
